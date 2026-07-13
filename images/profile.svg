@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Profile illustration</title>
+  <desc id="desc">A simple portrait illustration of Samir Lama.</desc>
+  <rect width="240" height="240" fill="#f4f4f4"/>
+  <circle cx="120" cy="90" r="50" fill="#f2c38b"/>
+  <path d="M70 208c8-41 37-62 50-62s42 21 50 62" fill="#2f4f4f"/>
+  <path d="M90 80c0-17 15-31 30-31s30 14 30 31c0 11-5 20-12 26-7-6-17-10-28-10-10 0-20 4-28 10-6-6-12-15-12-26z" fill="#2b2b2b"/>
+  <rect x="82" y="163" width="76" height="24" rx="8" fill="#3f5d7a"/>
+</svg>
